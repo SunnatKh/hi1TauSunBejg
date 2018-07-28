@@ -1,8 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot("")
-
-#  bot.send_message(170120871, "sdf")
+bot = telebot.TeleBot("673234620:AAHw0UbTGPigwG7cpmQukynBsyUYJdVGvCc")
 
 print(bot.get_me())
 
